@@ -1,0 +1,52 @@
+{
+  "basics":{
+    "name":"ALEKHYA",
+    "email":"alekhya@gmail.com",
+    "mobile":"1234567890"
+  },
+  "career":{
+    "info":" To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skills, experience and knowledge efficiently for organizational goal"
+  },
+  "education":[
+    {
+      "degree":"B.tech(C.S.E)",
+      "institute":"avanthi inst. of engg. & tech.,narsipatnam",
+      "data":["2015-19","78%"]
+    },
+    {
+      "degree":"intermediate",
+      "institute":"govt.junior college,chintapalli",
+      "data":["2017-19","90%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"st.anne's high school,chintapalli",
+      "data":["2013","85%"]
+
+    }
+
+  ],
+  "skills":[
+    {
+      "title":"programming languages",
+      "info":["c","c++","java","python"]
+    },
+    {
+      "title":"DataBases",
+      "info":["mongoDb","mySql","Oracle"]
+    },
+    {
+      "title":"Web Technologies",
+      "info":["HTML5","CSS3","javascript"]
+    },
+    {
+      "title":"Libraries and Frameworks",
+      "info":["ionic","angular","express",".net"]
+    },
+    {
+      "title":"Operating Systems",
+      "info":["Linux","Windows","Dos"]
+    }
+]
+
+}
